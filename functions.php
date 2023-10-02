@@ -1,3 +1,5 @@
+<?php
+
 function product_categories_shortcode() {
   global $product;
   $html = "";
